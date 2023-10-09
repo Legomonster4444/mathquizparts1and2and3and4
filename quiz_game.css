@@ -1,0 +1,21 @@
+#idd{
+    width: 2cm;
+    margin-bottom: 50px;
+}
+button{
+    width:500px;
+}
+#index{
+    background-color: lightgreen;
+    opacity: 90%;
+}
+.logout{
+    width: 100px;
+    margin-left:700pt;
+}
+body{
+    background-color: rgb(245, 157, 4);
+}
+#chat{
+    background-color: rgb(138, 61, 106);
+}
